@@ -14,7 +14,7 @@ Coming soon
 # Project Report
 Coming soon
 
-### **Programming techniques used/Notes:**
+### **Problem Solving techniques used/Notes:**
 - Object Oriented 
 - Concurrency
 	- Future objects
