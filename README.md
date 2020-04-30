@@ -42,7 +42,7 @@ Coming soon
 
 **"Configuration" Scene**
 
-![](images/ConfigurationScene.png)
+![](images/ConfigureScene.png)
 
 **Popup Dialogues**
 
