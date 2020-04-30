@@ -22,9 +22,7 @@ Coming soon
 	- Executors
 - Chocolatey for install, upgrade, uninstall commands
 - PSTools to execute all batch file commands to remote systems
-
-### **Features**
-Coming soon
+- Blowfish Encryption
 
 ### **Screenshots**
 
