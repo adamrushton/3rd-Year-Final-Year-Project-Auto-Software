@@ -1,7 +1,7 @@
 # Auto Software 
 ### **Languages:** Java, Batch using Chocolatey, PSTools and JavaFX
 Automation of the installation, uninstallation and upgrade of software using Chocolatey to support automation and PSTools to support the execution of commands remotely.
-The user interface uses JavaFX
+The user interface was created using JavaFX
 
 ![](images/icon.png)
 
