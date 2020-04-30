@@ -32,6 +32,12 @@ Coming soon
 
 ![](images/HomeScene.png)
 
+**Systems added to the system table on the "Home" Scene**
+
+![](images/SystemStatus1.png)
+
+![](images/SystemStatus2.png)
+
 **"Global Configuration" Scene**
 
 ![](images/GlobalConfigurationScene.png)
@@ -43,28 +49,6 @@ Coming soon
 **"Configuration" Scene**
 
 ![](images/ConfigureScene.png)
-
-**Popup Dialogues**
-
-![](images/InvalidIP.png)
-
-![](images/IPAlreadyExists.png)
-
-![](images/ConfigureSystemsNotReady.png)
-
-![](images/NoSystemsLoaded.png)
-
-![](images/CloseApplicationDuringPhase.png)
-
-![](images/AllSystemsGoOffline.png)
-
-![](images/SystemStatus1.png)
-
-![](images/SystemStatus2.png)
-
-**When attempting to install software that is already installed. Same applies for uninstall and upgrade**
-
-![](images/ConfigurationAlreadyInstalled.png)
 
 **Installation of Software phase on three virtual machines**
 
@@ -90,3 +74,26 @@ Coming soon
 ![](images/ConfigurationUninstall2.png)
 
 ![](images/ConfigurationUninstallFinished.png)
+
+**Popup Dialogues**
+
+![](images/InvalidIP.png)
+
+![](images/IPAlreadyExists.png)
+
+![](images/ConfigureSystemsNotReady.png)
+
+![](images/NoSystemsLoaded.png)
+
+![](images/CloseApplicationDuringPhase.png)
+
+![](images/AllSystemsGoOffline.png)
+
+![](images/SystemStatus1.png)
+
+![](images/SystemStatus2.png)
+
+**When attempting to install software that is already installed. Same applies for uninstall and upgrade**
+
+![](images/ConfigurationAlreadyInstalled.png)
+
