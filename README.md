@@ -9,7 +9,7 @@ The user interface was created using JavaFX
 Coming soon
 
 # Poster
-Coming soon
+https://github.com/adamrushton/3rd-Year-Final-Year-Project-Auto-Software/blob/master/AutoSoftwarePoster.pdf
 
 # Project Report
 Coming soon
