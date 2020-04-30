@@ -14,8 +14,8 @@ Coming soon
 # Project Report
 Coming soon
 
-### **Problem Solving techniques used/Notes:**
-- Object Oriented 
+### **Technical Details:**
+- Object Oriented Programming
 - Concurrency
 	- Future objects
 	- Thread pools
