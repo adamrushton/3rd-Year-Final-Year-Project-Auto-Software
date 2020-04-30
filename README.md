@@ -89,10 +89,6 @@ Coming soon
 
 ![](images/AllSystemsGoOffline.png)
 
-![](images/SystemStatus1.png)
-
-![](images/SystemStatus2.png)
-
 **When attempting to install software that is already installed. Same applies for uninstall and upgrade**
 
 ![](images/ConfigurationAlreadyInstalled.png)
