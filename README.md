@@ -4,6 +4,7 @@ Automation of the installation, uninstallation and upgrade of software using Cho
 The user interface uses JavaFX
 
 ![](images/icon.png)
+
 # Demonstration Video:
 Coming soon
 
@@ -14,11 +15,13 @@ Coming soon
 Coming soon
 
 ### **Programming techniques used/Notes:**
--  Object Oriented 
+- Object Oriented 
 - Concurrency
 	- Future objects
 	- Thread pools
 	- Executors
+- Chocolatey for install, upgrade, uninstall commands
+- PSTools to execute all batch file commands to remote systems
 
 ### **Features**
 Coming soon
