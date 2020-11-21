@@ -6,7 +6,7 @@ The user interface was created using JavaFX
 ![](images/icon.png)
 
 # Demonstration Video:
-Coming soon
+https://www.youtube.com/watch?v=PdbmNHX2irY
 
 # Poster
 https://github.com/adamrushton/3rd-Year-Final-Year-Project-Auto-Software/blob/master/AutoSoftwarePoster.pdf
